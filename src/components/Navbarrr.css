@@ -1,0 +1,14 @@
+
+.nav .link{
+    color: red !important ;
+}
+
+.myImgs {
+    display:flex
+}
+
+.myImgs img{
+width : 400px;
+margin : 15px;
+
+}
